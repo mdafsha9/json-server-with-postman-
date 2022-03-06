@@ -72,13 +72,6 @@
       "discount": {
         "type": "shipping"
       }
-    },
-    {
-      "id": 11,
-      "title": "Product 11",
-      "Category": "tablets",
-      "price": 12000,
-      "description": "This is description about product 11"
     }
   ],
   "reviews": [
