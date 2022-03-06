@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "Category": "electronics",
+      "price": 4000,
+      "description": "This is description about product 1"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "Category": "electronics",
+      "price": 3000,
+      "description": "This is description about product 2"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "Category": "books",
+      "price": 1000,
+      "description": "This is description about product 3"
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "Category": "phones",
+      "price": 14000,
+      "description": "This is description about product 4"
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "Category": "laptops",
+      "price": 40000,
+      "description": "This is description about product 5"
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "Category": "tablets",
+      "price": 20000,
+      "description": "This is description about product 6"
+    },
+    {
+      "id": 7,
+      "title": "Product 7",
+      "Category": "fridges",
+      "price": 10000,
+      "description": "This is description about product 7"
+    },
+    {
+      "id": 8,
+      "title": "Product 8",
+      "Category": "televisions",
+      "price": 7000,
+      "description": "This is description about product 8"
+    },
+    {
+      "id": 9,
+      "title": "Product 9",
+      "Category": "Vowen",
+      "price": 4000,
+      "description": "This is description about product 9"
+    },
+    {
+      "id": 10,
+      "title": "Product 10",
+      "Category": "electronics",
+      "price": 4000,
+      "description": "This is description about product 10",
+      "discount": {
+        "type": "shipping"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Product 11",
+      "Category": "furniture",
+      "price": 13000,
+      "description": "This is description about product 11"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 3,
+      "comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 4,
+      "rating": 2,
+      "comment": "Review 1 for product id 2",
+      "productId": 2
+    },
+    {
+      "id": 5,
+      "rating": 3,
+      "comment": "Review 1 for product id 3",
+      "productId": 3
+    }
+  ]
+}
